@@ -4,3 +4,6 @@
 [submodule "bundle/limelight.vim"]
 	path = bundle/limelight.vim
 	url = https://github.com/junegunn/limelight.vim.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
